@@ -18,9 +18,9 @@ int main() {
 
     Stack numbers;
 
-    numbers.push(10);
+    numbers.push(7);
+    numbers.push(5);
     numbers.push(3);
-    numbers.push(2);
 
     int right = numbers.top();
     numbers.pop();
